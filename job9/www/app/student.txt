@@ -1,0 +1,4 @@
+jerry  11  female
+mike   13  male
+zhu    30  male
+abc	100	male

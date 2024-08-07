@@ -1,0 +1,1 @@
+gcc pc.c -o pc lib/stdio.c lib/coro.c lib/cpu.S
